@@ -2,7 +2,7 @@
 
 <h3 align="center">Computer Science Senior @ Clemson University</h3>
 
-I have been a lifelong learner ever since child-me figured out you can modify video games. Studying my passion here of Computer Science, at Clemson, has been a dream come true seeing all that I have learned from it. I'm looking forward to my future career in tech, wherever it lands😁
+I have been a lifelong learner ever since child-me figured out you can modify video games. Studying my passion of Computer Science has been a dream come true, seeing all that I have learned from it. I am looking forward to my future career in tech, wherever it lands😁
 
 * ✉️  You can contact me at [HaydenStrong18@gmail.com](mailto:HaydenStrong18@gmail.com)
 * 🧠  I'm learning everything I can get my brain on
