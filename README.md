@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋 I'm Hayden, Welcome to my GitHub!</h1>
+<h1 align="center">Hello! 👋 I'm Hayden | Welcome to my GitHub!</h1>
 
 <h3 align="center">Computer Science Senior @ Clemson University</h3>
 
