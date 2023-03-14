@@ -30,6 +30,6 @@ ___________________________
 
 <b>My GitHub Stats & Streaks</b>
 
-<a href="http://www.github.com/strong-pointer"><img src="https://github-readme-stats.vercel.app/api?username=strong-pointer&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="strong-pointer's GitHub stats" /></a>
+<a href="http://www.github.com/strong-pointer"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=strong-pointer&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="strong-pointer's GitHub stats" /></a>
 
 <a href="http://www.github.com/strong-pointer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=strong-pointer&stroke=64748b&background=1c1917&ring=10b981&fire=10b981&currStreakNum=64748b&currStreakLabel=10b981&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
