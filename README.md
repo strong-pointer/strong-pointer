@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 👋 I'm Hayden | Welcome to my GitHub!</h1>
 
-<h3 align="center">Computer Science Senior @ Clemson University</h3>
+<h3 align="center">Computer Science New Graduate from Clemson University</h3>
 
 I have been a lifelong learner ever since child-me figured out you can modify video games. Studying my passion of Computer Science has been a dream come true, seeing all that I have learned from it. I am looking forward to my future career in tech, wherever it lands😁
 
